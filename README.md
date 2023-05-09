@@ -1,2 +1,2 @@
 # json_compare
-JSON utilities, comparison, merging
+JSON utilities, comparison deeply nested, and merging functions
